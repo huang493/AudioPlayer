@@ -16,12 +16,12 @@
 		754534A81E495E0300C7F4DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 754534A61E495E0300C7F4DA /* LaunchScreen.storyboard */; };
 		754534B31E495E0300C7F4DA /* AudioTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 754534B21E495E0300C7F4DA /* AudioTestTests.m */; };
 		754534BE1E495E0300C7F4DA /* AudioTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 754534BD1E495E0300C7F4DA /* AudioTestUITests.m */; };
-		754534CC1E495EC800C7F4DA /* 10s.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 754534CB1E495EC800C7F4DA /* 10s.mp3 */; };
-		757212C81E49746C0000EAD2 /* HysteriaPlayerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 757212C71E49746C0000EAD2 /* HysteriaPlayerManager.m */; };
-		757212CB1E4975160000EAD2 /* PlayingItems.m in Sources */ = {isa = PBXBuildFile; fileRef = 757212CA1E4975160000EAD2 /* PlayingItems.m */; };
-		757212D01E4995F40000EAD2 /* Song.m in Sources */ = {isa = PBXBuildFile; fileRef = 757212CF1E4995F40000EAD2 /* Song.m */; };
-		757212D61E4AA62C0000EAD2 /* PlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 757212D51E4AA62C0000EAD2 /* PlayerView.m */; };
-		757212D81E4AA63A0000EAD2 /* PlayerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 757212D71E4AA63A0000EAD2 /* PlayerView.xib */; };
+		757212DB1E4ABB110000EAD2 /* 10s.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 757212DA1E4ABB110000EAD2 /* 10s.mp3 */; };
+		757212E61E4ABB1C0000EAD2 /* HysteriaPlayerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 757212DE1E4ABB1C0000EAD2 /* HysteriaPlayerManager.m */; };
+		757212E71E4ABB1C0000EAD2 /* PlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 757212E01E4ABB1C0000EAD2 /* PlayerView.m */; };
+		757212E81E4ABB1C0000EAD2 /* PlayerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 757212E11E4ABB1C0000EAD2 /* PlayerView.xib */; };
+		757212E91E4ABB1C0000EAD2 /* PlayingItems.m in Sources */ = {isa = PBXBuildFile; fileRef = 757212E31E4ABB1C0000EAD2 /* PlayingItems.m */; };
+		757212EA1E4ABB1C0000EAD2 /* Song.m in Sources */ = {isa = PBXBuildFile; fileRef = 757212E51E4ABB1C0000EAD2 /* Song.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,17 +60,17 @@
 		754534B91E495E0300C7F4DA /* AudioTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AudioTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		754534BD1E495E0300C7F4DA /* AudioTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AudioTestUITests.m; sourceTree = "<group>"; };
 		754534BF1E495E0300C7F4DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		754534CB1E495EC800C7F4DA /* 10s.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 10s.mp3; sourceTree = "<group>"; };
-		757212C61E49746C0000EAD2 /* HysteriaPlayerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HysteriaPlayerManager.h; sourceTree = "<group>"; };
-		757212C71E49746C0000EAD2 /* HysteriaPlayerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HysteriaPlayerManager.m; sourceTree = "<group>"; };
-		757212C91E4975160000EAD2 /* PlayingItems.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingItems.h; sourceTree = "<group>"; };
-		757212CA1E4975160000EAD2 /* PlayingItems.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingItems.m; sourceTree = "<group>"; };
 		757212CD1E4978070000EAD2 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = PrefixHeader.pch; path = ../PrefixHeader.pch; sourceTree = "<group>"; };
-		757212CE1E4995F40000EAD2 /* Song.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Song.h; sourceTree = "<group>"; };
-		757212CF1E4995F40000EAD2 /* Song.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Song.m; sourceTree = "<group>"; };
-		757212D41E4AA62C0000EAD2 /* PlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerView.h; sourceTree = "<group>"; };
-		757212D51E4AA62C0000EAD2 /* PlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerView.m; sourceTree = "<group>"; };
-		757212D71E4AA63A0000EAD2 /* PlayerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PlayerView.xib; sourceTree = "<group>"; };
+		757212DA1E4ABB110000EAD2 /* 10s.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 10s.mp3; sourceTree = "<group>"; };
+		757212DD1E4ABB1C0000EAD2 /* HysteriaPlayerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HysteriaPlayerManager.h; sourceTree = "<group>"; };
+		757212DE1E4ABB1C0000EAD2 /* HysteriaPlayerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HysteriaPlayerManager.m; sourceTree = "<group>"; };
+		757212DF1E4ABB1C0000EAD2 /* PlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerView.h; sourceTree = "<group>"; };
+		757212E01E4ABB1C0000EAD2 /* PlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerView.m; sourceTree = "<group>"; };
+		757212E11E4ABB1C0000EAD2 /* PlayerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PlayerView.xib; sourceTree = "<group>"; };
+		757212E21E4ABB1C0000EAD2 /* PlayingItems.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingItems.h; sourceTree = "<group>"; };
+		757212E31E4ABB1C0000EAD2 /* PlayingItems.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingItems.m; sourceTree = "<group>"; };
+		757212E41E4ABB1C0000EAD2 /* Song.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Song.h; sourceTree = "<group>"; };
+		757212E51E4ABB1C0000EAD2 /* Song.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Song.m; sourceTree = "<group>"; };
 		93DA0FD33C3B9B0D4406C774 /* Pods-AudioTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AudioTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-AudioTest/Pods-AudioTest.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -125,12 +125,12 @@
 		754534971E495E0300C7F4DA /* AudioTest */ = {
 			isa = PBXGroup;
 			children = (
-				754534CB1E495EC800C7F4DA /* 10s.mp3 */,
+				757212D91E4ABB110000EAD2 /* Resources */,
+				757212DC1E4ABB1C0000EAD2 /* HysteriaPlayer */,
 				7545349B1E495E0300C7F4DA /* AppDelegate.h */,
 				7545349C1E495E0300C7F4DA /* AppDelegate.m */,
 				7545349E1E495E0300C7F4DA /* ViewController.h */,
 				7545349F1E495E0300C7F4DA /* ViewController.m */,
-				757212CC1E49751F0000EAD2 /* HysterialPlayer */,
 				754534A11E495E0300C7F4DA /* Main.storyboard */,
 				754534A41E495E0300C7F4DA /* Assets.xcassets */,
 				754534A61E495E0300C7F4DA /* LaunchScreen.storyboard */,
@@ -167,20 +167,28 @@
 			path = AudioTestUITests;
 			sourceTree = "<group>";
 		};
-		757212CC1E49751F0000EAD2 /* HysterialPlayer */ = {
+		757212D91E4ABB110000EAD2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				757212C61E49746C0000EAD2 /* HysteriaPlayerManager.h */,
-				757212C71E49746C0000EAD2 /* HysteriaPlayerManager.m */,
-				757212C91E4975160000EAD2 /* PlayingItems.h */,
-				757212CA1E4975160000EAD2 /* PlayingItems.m */,
-				757212D41E4AA62C0000EAD2 /* PlayerView.h */,
-				757212D51E4AA62C0000EAD2 /* PlayerView.m */,
-				757212D71E4AA63A0000EAD2 /* PlayerView.xib */,
-				757212CE1E4995F40000EAD2 /* Song.h */,
-				757212CF1E4995F40000EAD2 /* Song.m */,
+				757212DA1E4ABB110000EAD2 /* 10s.mp3 */,
 			);
-			name = HysterialPlayer;
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		757212DC1E4ABB1C0000EAD2 /* HysteriaPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				757212DD1E4ABB1C0000EAD2 /* HysteriaPlayerManager.h */,
+				757212DE1E4ABB1C0000EAD2 /* HysteriaPlayerManager.m */,
+				757212DF1E4ABB1C0000EAD2 /* PlayerView.h */,
+				757212E01E4ABB1C0000EAD2 /* PlayerView.m */,
+				757212E11E4ABB1C0000EAD2 /* PlayerView.xib */,
+				757212E21E4ABB1C0000EAD2 /* PlayingItems.h */,
+				757212E31E4ABB1C0000EAD2 /* PlayingItems.m */,
+				757212E41E4ABB1C0000EAD2 /* Song.h */,
+				757212E51E4ABB1C0000EAD2 /* Song.m */,
+			);
+			path = HysteriaPlayer;
 			sourceTree = "<group>";
 		};
 		A67C9E49279494E66A8875C1 /* Pods */ = {
@@ -316,10 +324,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				754534A81E495E0300C7F4DA /* LaunchScreen.storyboard in Resources */,
-				754534CC1E495EC800C7F4DA /* 10s.mp3 in Resources */,
+				757212DB1E4ABB110000EAD2 /* 10s.mp3 in Resources */,
 				754534A51E495E0300C7F4DA /* Assets.xcassets in Resources */,
 				754534A31E495E0300C7F4DA /* Main.storyboard in Resources */,
-				757212D81E4AA63A0000EAD2 /* PlayerView.xib in Resources */,
+				757212E81E4ABB1C0000EAD2 /* PlayerView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -392,13 +400,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				757212D01E4995F40000EAD2 /* Song.m in Sources */,
-				757212D61E4AA62C0000EAD2 /* PlayerView.m in Sources */,
+				757212EA1E4ABB1C0000EAD2 /* Song.m in Sources */,
 				754534A01E495E0300C7F4DA /* ViewController.m in Sources */,
 				7545349D1E495E0300C7F4DA /* AppDelegate.m in Sources */,
-				757212CB1E4975160000EAD2 /* PlayingItems.m in Sources */,
 				7545349A1E495E0300C7F4DA /* main.m in Sources */,
-				757212C81E49746C0000EAD2 /* HysteriaPlayerManager.m in Sources */,
+				757212E61E4ABB1C0000EAD2 /* HysteriaPlayerManager.m in Sources */,
+				757212E71E4ABB1C0000EAD2 /* PlayerView.m in Sources */,
+				757212E91E4ABB1C0000EAD2 /* PlayingItems.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
