@@ -7,8 +7,8 @@ Pod::Spec.new do |s|
 	s.author       = { "hsm" => "727593012@qq.com" }
 	s.source       = { :git => "https://github.com/huang493/AudioPlayer.git" }
 	s.source_files  = "AudioTest/HysteriaPlayer/**/*.{h,m}"
-	s.resources = "Resources/*.{png,mp3}"
-	s.requires_arc = true
+	s.resources 	= "AudioTest/Resources/*.{png,mp3}"
+	s.requires_arc 	= true
 	s.dependency "HysteriaPlayer"
 	s.dependency "ReactiveCocoa"
 	s.dependency "AFNetworking"
