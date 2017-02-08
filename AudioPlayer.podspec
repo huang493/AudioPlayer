@@ -1,5 +1,6 @@
 Pod::Spec.new do |s|
 	s.name         = "AudioPlayer"
+	s.homepage     = "https://github.com/huang493/AudioPlayer.git"
 	s.version      = "0.0.1"
 	s.summary      = "A short description of AudioPlayer."
 	s.license      = "MIT"
